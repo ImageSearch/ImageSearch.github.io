@@ -81,10 +81,10 @@ header h2 {
 }
 
 code, pre {
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
+  font-family: Zapino, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
   color: #222;
   margin-bottom: 30px;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 code {
